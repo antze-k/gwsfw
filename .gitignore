@@ -1,0 +1,9 @@
+*.sdf
+*.suo
+*.opensdf
+*.opendb
+*.aps
+*.vcxproj.user
+*.csproj.user
+*.VC.db
+vs14/*/*/
